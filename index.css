@@ -1,0 +1,150 @@
+body {
+  background-color: azure;
+}
+  #press {
+    background-color: olive;
+    text-align: center;
+
+  }
+
+  .margin {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .column {
+    float: left;
+    height: 650px;
+    padding: 10px;
+  }
+  #butterfly .column {
+    margin: 3% auto;
+    width: 22%;
+    height:70px;
+  }
+  #para3 {
+    text-align: center;
+  }
+  #front .margin {
+    text-align: center;
+  }
+  #myBtn {
+    font-size: 60px;
+    border-color: black;
+    background-color: olive;
+    width: 80%px;
+    height: 80px;
+    padding-left: 45px;
+  }
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: olive;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  .modal-content{
+    font-size: 40px;
+    background-color: cornflowerblue;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid white;
+    width: 80%;
+  }
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  .close: hover,
+  .close: focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  #b1 {
+    font-size: 30px;
+  }
+  #b2 {
+    font-size: 30px
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /*body {
+  background-size: cover;
+  background-position: center
+
+  }
+
+  h1 {
+    font-size: 60px;
+    color: olive;
+    text-align: center;
+  }
+  h4 {
+    text-align: center;
+  }
+  #but {
+    font-size: 35px;
+    text-align: center;
+  }
+  #para1 {
+    float: left;
+    border: 20px;
+    border-color: solid 24px red;
+    padding: 10px 35px
+
+
+  }
+  #para2 {
+    float: right;
+    border: 20px;
+    border-color: solid 24px red;
+    height: 300px;
+    width: 450px;
+    padding-top: 10px 30px;
+  }
+
+  #para3 {
+    float: left;
+    height: 450px
+    padding auto;
+
+
+  }*/
